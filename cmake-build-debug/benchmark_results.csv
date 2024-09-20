@@ -1,0 +1,37 @@
+N,Algorithm,Case,Time
+1000,Bubble Sort,Caso Promedio,3761
+1000,Selection Sort,Caso Promedio,1500
+1000,Merge Sort,Caso Promedio,393
+1000,Bubble Sort,Peor Caso,3556
+1000,Selection Sort,Peor Caso,1522
+1000,Merge Sort,Peor Caso,331
+1000,Bubble Sort,Mejor Caso,1457
+1000,Selection Sort,Mejor Caso,1434
+1000,Merge Sort,Mejor Caso,334
+1000,LinkedList Search,Mejor Caso,0
+1000,LinkedList Search,Peor Caso,1
+1000,Binary Search Tree Insert,Caso Promedio,5
+5000,Bubble Sort,Caso Promedio,96789
+5000,Selection Sort,Caso Promedio,37156
+5000,Merge Sort,Caso Promedio,2398
+5000,Bubble Sort,Peor Caso,90221
+5000,Selection Sort,Peor Caso,41387
+5000,Merge Sort,Peor Caso,1724
+5000,Bubble Sort,Mejor Caso,36852
+5000,Selection Sort,Mejor Caso,35484
+5000,Merge Sort,Mejor Caso,1853
+5000,LinkedList Search,Mejor Caso,3
+5000,LinkedList Search,Peor Caso,7
+5000,Binary Search Tree Insert,Caso Promedio,16
+10000,Bubble Sort,Caso Promedio,385395
+10000,Selection Sort,Caso Promedio,141183
+10000,Merge Sort,Caso Promedio,4278
+10000,Bubble Sort,Peor Caso,363285
+10000,Selection Sort,Peor Caso,183600
+10000,Merge Sort,Peor Caso,3575
+10000,Bubble Sort,Mejor Caso,147284
+10000,Selection Sort,Mejor Caso,140690
+10000,Merge Sort,Mejor Caso,3553
+10000,LinkedList Search,Mejor Caso,7
+10000,LinkedList Search,Peor Caso,15
+10000,Binary Search Tree Insert,Caso Promedio,49
