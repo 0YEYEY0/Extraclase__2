@@ -1,1 +1,1 @@
-Ejecutar el programa normalmente o el .exe
+Ejecutar el programa normalmente 
